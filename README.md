@@ -12,10 +12,6 @@
 
 - As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
-### Connect with Me :
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Moataz-Mohammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Moataz-Mohammed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,7 +24,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoatazXI&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=MoatazXI&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MoatazXI&style=for-the-badge">
