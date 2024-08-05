@@ -4,9 +4,8 @@
   Hi I'm Moataz Mohammed !
 </h3>
 
+On a journey to master .NET backend development, my path involves continuous learning and hands-on projects to enhance my skills and knowledge. As an IT student, I am passionate about building efficient, scalable applications and i am dedicated to becoming a proficient .NET backend developer.
 
-
-- IT Student
 
 ### &nbsp;Tech Stack
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
